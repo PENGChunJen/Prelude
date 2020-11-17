@@ -1,4 +1,4 @@
-# Prelude
+# Etude
 
 A place to practice ML/DL
 
